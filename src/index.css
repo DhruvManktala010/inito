@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .debug-border {
+    @apply border border-red-700;
+  }
+}
+
+.block-scroll {
+  overflow: hidden;
+  touch-action: none;
+  -ms-touch-action: none;
+}
