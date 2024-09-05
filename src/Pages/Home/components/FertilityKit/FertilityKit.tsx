@@ -22,6 +22,8 @@ const FertilityKit = () => {
             actually confirms your ovulation: &nbsp;
             <strong>PdG (urine metabolite of progesterone).</strong>
           </p>
+
+          
         </div>
 
         <div className='space-y-4 md:space-y-6'>
